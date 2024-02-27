@@ -22,8 +22,8 @@ The school has several sections that cater to students from different age groups
 ![2024 Poster1](https://github.com/spsnoneya/spsnoneya/assets/142210847/d99f9da5-ba79-4624-9197-0cbfeb6d8548)
 ![Assembly](https://github.com/spsnoneya/spsnoneya/assets/142210847/da416875-6b3a-4e44-94ec-5efcfb35b02f)
 
-![image](https://gith![transports](https://github.com/spsnoneya/spsnoneya/assets/142210847/34e7daec-e23e-4cdf-9acf-b65709fd0850)
-ub.com/spsnoneya/spsnoneya/assets/142210847/1e488e5c-44f5-411a-969c-6bc39e26f4ef)
+![image](https://github.com/spsnoneya/spsnoneya/assets/142210847/1e488e5c-44f5-411a-969c-6bc39e26f4ef)
+![transports](https://github.com/spsnoneya/spsnoneya/assets/142210847/34e7daec-e23e-4cdf-9acf-b65709fd0850)
 
 <!---
 spsnoneya/spsnoneya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
